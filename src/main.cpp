@@ -21,7 +21,7 @@ int main()
     // J3 = humeral rotation
     // J4 = elbow flexion/extension
     // ========================================================================
-    settings.start_position_deg = {{90.0f, 0.0f, 90.0f, 90.0f}};
+    settings.start_position_deg = {{82.0f, -18.0f, 14.0f, 15.0f}};
 
     // ========================================================================
     // BOX 2 - EXOSKELETON TIMING
